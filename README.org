@@ -1,0 +1,4 @@
+* Awesome Semantic-UI
+
+[[http://awesome.es][https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg]]
+[[https://travis-ci.org/semantic-ui-forest/awesome-semantic-ui][https://travis-ci.org/semantic-ui-forest/awesome-semantic-ui.svg?branch=master]]
