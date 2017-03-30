@@ -2,3 +2,25 @@
 
 [[http://awesome.es][https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg]]
 [[https://travis-ci.org/semantic-ui-forest/awesome-semantic-ui][https://travis-ci.org/semantic-ui-forest/awesome-semantic-ui.svg?branch=master]]
+
+** Official links
+
+- [[https://semantic-ui.com/][semantic-ui.com]]    - Official website, contains wonderful documentation.
+- [[https://github.com/Semantic-Org/Semantic-UI][Github]]             - Code and issues.
+- [[http://learnsemantic.com/][learnsemantic.com]]  - Additional documentations for customizing semantic-ui.
+- [[https://github.com/Semantic-Org/Semantic-UI-React][Semantic-UI-React]]  - Official Semantic-UI-React integration.
+
+** Websites
+
+- [[https://github.com/Semantic-Org/example-github][example-github]] - An official demo about the power of semantic-ui by recreating a Github clone.
+- [[https://gogs.io/][Gogs]] - A painless self-hosted Git service.
+- [[https://supportbee.com/][SupportBee]] - Email Ticketing System For Collaborative Teams
+
+*** Chinese
+
+- [[https://git.oschina.net/][Git@OSC]] - Another git hosting service.
+
+
+** License
+
+[[https://creativecommons.org/licenses/by/4.0/][http://opentf.github.io/GuokrBadge/cc/gs/cc_by.flat.guokr.32.svg]]
