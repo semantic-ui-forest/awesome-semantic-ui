@@ -5,16 +5,25 @@
 
 ** Official links
 
-- [[https://semantic-ui.com/][semantic-ui.com]]    - Official website, contains wonderful documentation.
-- [[https://github.com/Semantic-Org/Semantic-UI][Github]]             - Code and issues.
+- [[https://semantic-ui.com/][semantic-ui.com]]    - Official Semantic-UI website, contains wonderful documentation.
+- [[https://github.com/Semantic-Org/Semantic-UI][Semantic-UI]]             - Official Semantic-UI code and issues.
 - [[http://learnsemantic.com/][learnsemantic.com]]  - Additional documentations for customizing semantic-ui.
-- [[https://github.com/Semantic-Org/Semantic-UI-React][Semantic-UI-React]]  - Official Semantic-UI-React integration.
+- [[https://github.com/Semantic-Org/Semantic-UI-React][Semantic-UI-React]] - Official Semantic-UI-React integration code and issues.
+- [[https://react.semantic-ui.com/][Semantic-UI-React Docs]] - Official Semantic-UI-React documentation.
+- [[https://github.com/Semantic-Org/Semantic-UI-Ember][Semantic-UI-Ember]] - Official Ember library for the Semantic-UI modules.
+- [[http://semantic-org.github.io/Semantic-UI-Ember][Semantic-UI-Ember Docs]] - Official Semantic-UI-Ember documentation.
 
 ** Websites
 
 - [[https://github.com/Semantic-Org/example-github][example-github]] - An official demo about the power of semantic-ui by recreating a Github clone.
 - [[https://gogs.io/][Gogs]] - A painless self-hosted Git service.
-- [[https://supportbee.com/][SupportBee]] - Email Ticketing System For Collaborative Teams
+- [[https://supportbee.com/][SupportBee]] - Email Ticketing System For Collaborative Teams.
+- [[https://www.startupschool.org/][Starup School]] - Startup School by Y Combinator.
+- [[https://partsbox.io/][PartsBox]] - A Fast way to keep track of electronic parts and documents.
+- [[http://crowdox.com/][CrowdOx]] - Service to let you send beautiful, dynamic product surveys.
+- [[https://www.zomato.com/][Zomato]] - Helping people discover great restaurants around them.
+- [[https://suitocracy.com/][Suitocracy]] - A place to share thoughts on corporate conduct and rate companies.
+- [[https://www.findlectures.com/][FindLectures]] - Searching among 120,000+ lectures, talks, interviews and documentaries.
 
 *** Chinese
 
