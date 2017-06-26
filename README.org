@@ -29,6 +29,9 @@
 
 - [[https://git.oschina.net/][Git@OSC]] - Another git hosting service.
 
+** Commercial
+
+- [[https://chap.website/][Chap]] - Premium WordPress theme using Semantic UI.
 
 ** License
 
