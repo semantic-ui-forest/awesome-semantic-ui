@@ -1,11 +1,9 @@
-Awesome Semantic-UI
-===================
+# Awesome Semantic-UI
 
 [![](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](http://awesome.es)
 [<https://travis-ci.org/semantic-ui-forest/awesome-semantic-ui.svg?branch=master>](https://travis-ci.org/semantic-ui-forest/awesome-semantic-ui)
 
-Official links
---------------
+## Official links
 
 - [semantic-ui.com](https://semantic-ui.com/) - Official Semantic-UI
   website, contains wonderful documentation.
@@ -19,12 +17,10 @@ Official links
   Semantic-UI-React documentation.
 - [Semantic-UI-Ember](https://github.com/Semantic-Org/Semantic-UI-Ember) -
   Official Ember library for the Semantic-UI modules.
-- [Semantic-UI-Ember
-  Docs](http://semantic-org.github.io/Semantic-UI-Ember) - Official
-  Semantic-UI-Ember documentation.
+- [Semantic-UI-Ember Docs](http://semantic-org.github.io/Semantic-UI-Ember) -
+  Official Semantic-UI-Ember documentation.
 
-Websites
---------
+## Websites
 
 - [example-github](https://github.com/Semantic-Org/example-github) -
   An official demo about the power of semantic-ui by recreating a
@@ -49,13 +45,11 @@ Websites
 
 - [Git@OSC](https://git.oschina.net/) - Another git hosting service.
 
-Commercial
-----------
+## Commercial
 
 - [Chap](https://chap.website/) - Premium WordPress theme using
   Semantic UI.
 
-License
--------
+## License
 
 [![](http://opentf.github.io/GuokrBadge/cc/gs/cc_by.flat.guokr.32.svg)](https://creativecommons.org/licenses/by/4.0/)
