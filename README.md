@@ -15,6 +15,8 @@
   Official Semantic-UI-React integration code and issues.
 - [Semantic-UI-React Docs](https://react.semantic-ui.com/) - Official
   Semantic-UI-React documentation.
+- [Semantic-UI-Vue](https://github.com/Semantic-UI-Vue/Semantic-UI-Vue) -
+  Semantic UI integration for Vue.
 - [Semantic-UI-Ember](https://github.com/Semantic-Org/Semantic-UI-Ember) -
   Official Ember library for the Semantic-UI modules.
 - [Semantic-UI-Ember Docs](http://semantic-org.github.io/Semantic-UI-Ember) -
