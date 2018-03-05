@@ -41,8 +41,6 @@
   electronic parts and documents.
 - [SnapChat](http://snapchat.com/) - A company reinventing the camera
   to improve the way people live and communicate.
-- [Zomato](https://www.zomato.com/) - Helping people discover great
-  restaurants around them.
 - [FindLectures](https://www.findlectures.com/) - Searching among
   120,000+ lectures, talks, interviews and documentaries.
 
