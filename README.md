@@ -43,8 +43,6 @@
   to improve the way people live and communicate.
 - [Zomato](https://www.zomato.com/) - Helping people discover great
   restaurants around them.
-- [Suitocracy](https://suitocracy.com/) - A place to share thoughts on
-  corporate conduct and rate companies.
 - [FindLectures](https://www.findlectures.com/) - Searching among
   120,000+ lectures, talks, interviews and documentaries.
 
