@@ -1,0 +1,15 @@
+version: 2
+jobs:
+  build:
+    docker:
+      # specify the version you desire here
+      - image: circleci/ruby:2.5
+      
+    working_directory: ~/awesome-semantic-ui
+
+    steps:
+      - checkout
+
+      - run: gem install awesome_bot
+
+      - run: awesome_bot README.md --allow-dupe --allow-redirect
