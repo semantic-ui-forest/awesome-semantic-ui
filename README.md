@@ -1,7 +1,7 @@
 # Awesome Semantic-UI
 
 [![](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](http://awesome.es)
-[![Build Status](https://travis-ci.org/semantic-ui-forest/awesome-semantic-ui.svg?branch=master)](https://travis-ci.org/semantic-ui-forest/awesome-semantic-ui)
+[![CircleCI](https://circleci.com/gh/semantic-ui-forest/awesome-semantic-ui.svg?style=svg)](https://circleci.com/gh/semantic-ui-forest/awesome-semantic-ui)
 
 ## Official links
 
