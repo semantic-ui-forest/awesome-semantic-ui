@@ -26,6 +26,8 @@
   Semantic UI integration for Vue.
 - [semantic-ui-sass](https://github.com/doabit/semantic-ui-sass) - Semantic UI,
   converted to Sass and ready to drop into Rails & Compass.
+- [Semantic-UI-Calendar](https://github.com/mdehoog/Semantic-UI-Calendar) - 
+  Calendar module for Semantic UI.
 
 ## Websites
 
